@@ -1,6 +1,6 @@
 # JumpCloud
 
-![N|Solid](https://www.jumpcloud.com/wp-content/uploads/2019/06/jumpcloud-logo-2018-tealwhite.svg)
+![N|Solid](https://jumpcloud.com/wp-content/uploads/2017/01/JumpCloud-Logo-One-Color-1030x287.png)
 Cloud Directory, Auth to Everything™
 Auth and Management for SSO, LDAP, RADIUS, Mac, Windows, Linux, and More
 
